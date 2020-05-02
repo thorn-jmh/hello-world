@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+这边是 $thorn\_$ ，弱省蒟蒻……
